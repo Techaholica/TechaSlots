@@ -1,7 +1,7 @@
 # TechaSlots
 A Slot machine bot for Twitch
 
-This script was part of my Twitch Bot Tutorial on Youtube. That's why you have those additional commands. I just wanted to show off different things you can do with a bot. 
+This script was part of my Twitch Bot Tutorial on Youtube (https://www.youtube.com/playlist?list=PL5MXFRcLDajdDyQZb6L4_VN6q3rw_YcOi). That's why you have those additional commands. I just wanted to show off different things you can do with a bot. 
 
 Overview
 When a user enters the channel, a timer is kicked off which awards the user every 10 mins with $10 (this is customizable). Users start off with $500. They can play a slot machine in chat and win or lose money. 
